@@ -1,0 +1,14 @@
+## Interface: 110005
+## Name: TooltipTiers
+## Title: |cff5bc0beTooltip Tiers|r
+## Notes: Enhances item tooltips with upgrade tiers, item level ranges, and required crests, with customizable colors and multi-language support.|n|n|cff669DFFDeveloper|cffffffff:|r |nJosh "|CFF7b8489Kkthnx|r" Russell|n|n|cff009cdePayPal|r|cffffffff:|r |n|cffffffffwww.paypal.me/KkthnxTV|r|n|n|cfff96854Patreon|r|cffffffff:|r |n|cffffffffwww.patreon.com/Kkthnx|r
+## Author: Josh "Kkthnx" Russell
+## Version: 1.0.0
+## IconTexture: 1030901
+## SavedVariables: TooltipTiersDB
+## X-Support: TWW
+## X-Curse-Project-ID:
+
+Libs\Dashi\embed.xml
+TooltipTiers.lua
+Settings.lua
