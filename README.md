@@ -60,7 +60,7 @@ Connect with other players and provide feedback or suggestions:
 ## 🎁 Support the Project
 If TooltipTiers enhances your game, consider supporting its development:
 - **Donate via PayPal**: [Support TooltipTiers](https://www.paypal.com/donate/kkthnxtv)
-- **In-Game Gold Contributions**: Send gold to *YourCharacterName* on *YourRealm*.
+- **In-Game Gold Contributions**: Send gold to *Kkthnx* on *Area 52*.
 
 ---
 
