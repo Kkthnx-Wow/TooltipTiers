@@ -1,6 +1,6 @@
 # TooltipTiers - Simplify and Enhance Your Item Tooltips 🎮✨
 
-[![Last Commit](https://img.shields.io/github/last-commit/Kkthnx-Wow/TooltipTiers/master)](https://github.com/Kkthnx-Wow/TooltipTiers/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/Kkthnx-Wow/TooltipTiers/main)](https://github.com/Kkthnx-Wow/TooltipTiers/commits/main)
 [![Issues](https://img.shields.io/github/issues/Kkthnx-Wow/TooltipTiers)](https://github.com/Kkthnx-Wow/TooltipTiers/issues)
 [![Download](https://img.shields.io/badge/CurseForge-Download-orange)](https://www.curseforge.com/wow/addons/tooltiptiers)
 
