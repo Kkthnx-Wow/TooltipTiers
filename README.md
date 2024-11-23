@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 Features
+## Features
 - **Upgrade Tiers**: Shows item levels, upgrade paths, and crests.
 - **Crest Info**: Highlights upgrade requirements with dynamic colors.
 - **Customization**: Personalize colors and tooltip settings.
@@ -16,13 +16,20 @@
 
 ---
 
-## 🛠️ Configuration
+## Configuration
 - Toggle crest info and rank highlights.
 - Customize colors for item level ranges.
 
 ---
 
-## 🚀 Join the Community
+## Support
+
+- **Donate via PayPal**: [Click Here](https://www.paypal.com/paypalme/kkthnxtv).
+- **Send Gold**: Mail to Kkthnx on Area 52.
+
+---
+
+## Join the Community
 - **Discord**: [Join Us](https://discord.gg/Rc9wcK9cAB)
 - **Issues**: [Report Bugs](https://github.com/Kkthnx-Wow/TooltipTiers/issues)
 
